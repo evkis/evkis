@@ -1,6 +1,6 @@
 ## Hi, I’m Evgeniya Kiseleva 👋 
 
-- 🔭  Data analyst/data scientist with large industrial experience and in-depth knowledge of mathematics and statistics,
+- 🔭  **I am data analyst/data scientist** with large industrial experience and in-depth knowledge of mathematics and statistics,
 with hands-on experience in Python, SQL and Tableau.
 
 - 🥅 10+ years of participation in various number of research and development projects within different companies in EU 
