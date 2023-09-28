@@ -1,4 +1,4 @@
-## Hi, I’m Evgeniya Kiseleva 👋 
+## Hi, I’m Aleksandra Aalto 👋 
 
 - 🔭  **I am data analyst/data scientist** with large industrial experience and in-depth knowledge of mathematics and statistics,
 with hands-on experience in Python, SQL and Tableau.
@@ -10,6 +10,6 @@ Deep knowledge of mathematics and curiosity in various processes broaden my inte
 
 - 🌱 Currently I am opened to implement my knowledge and expertise into the field of data science and analytics.
 
-- 📫 eugenia.l.kiseleva@gmail.com
+- 📫 aleksandra.aalto@icloud.com
   
 - 💎 [DATA ANALYSIS/SCIENCE PORTFOLIO](https://github.com/evkis/data_analysis_science_pet/tree/main)
