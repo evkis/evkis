@@ -13,4 +13,4 @@ Deep knowledge of mathematics and curiosity in various processes broaden my inte
 
 - 📫 aleksandra.aalto@icloud.com
   
-- 💎 [DATA ANALYSIS/SCIENCE PORTFOLIO](https://github.com/evkis/data_analysis_science_pet/tree/main)
+- 💎 [DATA ANALYSIS/SCIENCE STUDY/PET PROJECTS](https://github.com/evkis/data_analysis_science_pet/tree/main)
