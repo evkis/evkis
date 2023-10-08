@@ -17,3 +17,5 @@ I do understand how a product manager thinks and what value an analyst brings to
 - 📫 aleksandra.aalto@icloud.com
   
 - 💎 [DATA ANALYSIS/SCIENCE STUDY/PET PROJECTS](https://github.com/evkis/data_analysis_science_pet/tree/main)
+
+- Work project soon will be updated 👩🏻‍🔬.
