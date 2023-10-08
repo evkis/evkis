@@ -11,8 +11,8 @@ Deep knowledge of mathematics and curiosity in various processes broaden my inte
 
 - 💻 What can I do related to data analysis?
   
-I use `Python` (`Jupyter`, `Google Colab`, `VS Code`, `PyCharm`) for data analysis (`pandas`, `polars`, `numpy`, `matplotlib`, `seaborn`,`SciPy`, `statsmodels`, `Plotly`). Also I am big fan of `Julia`. I use `Tableau` and `Streamlit` to visualize the results and create dashboards.I work on joint projects through Jupyter Hub, using Git for team work. I have experience working on a remote server via the command line.I can write complex queries in `ClickHouse` and `PostgreSQL`.Based on the results of A/B testing, I can draw conclusions about the best version of the product. I have deep understanding of mathematics that lies behind the code. I have experience in conducting statistical tests, predicting prices based on linear models, and also have knowledge of bootstrap analysis methods.
-I do understand how a product manager thinks and what value an analyst brings to the business, I can calculate product metrics and apply them to solve analytical problems.
+I use `Python` (`Jupyter`, `Google Colab`, `VS Code`, `PyCharm`) for data analysis (`pandas`, `polars`, `numpy`, `matplotlib`, `seaborn`,`SciPy`, `statsmodels`, `Plotly`). Also I am big fan of `Julia`. I use `Tableau` and `Streamlit` to visualize the results and create dashboards.I work on joint projects through Jupyter Hub, using Git for team work. I have experience working on a remote server via the command line.I can write complex queries in `ClickHouse` and `PostgreSQL`. Based on the results of `A/B testing`, I can draw conclusions about the best version of the product. I have deep understanding of mathematics that lies behind the code. I have experience in conducting `statistical tests`, predicting prices based on `linear models`, and also have knowledge of `bootstrap` analysis methods.
+I do understand how a product manager thinks and what value an analyst brings to the business, I can calculate `product metrics` and apply them to solve analytical problems.
 
 - 📫 aleksandra.aalto@icloud.com
   
