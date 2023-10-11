@@ -14,7 +14,8 @@ Deep knowledge of mathematics and curiosity in various processes broaden my inte
 I use `Python` (`Jupyter`, `Google Colab`, `VS Code`, `PyCharm`) for data analysis (`pandas`, `polars`, `numpy`, `matplotlib`, `seaborn`,`SciPy`, `statsmodels`, `Plotly`). Also I am big fan of `Julia`. I use `Tableau` and `Streamlit` to visualize the results and create dashboards.I work on joint projects through Jupyter Hub, using Git for team work. I have experience working on a remote server via the command line.I can write complex queries in `ClickHouse`/`PostgreSQL` and work with `SQLAlchemy`. Based on the results of `A/B testing`, I can draw conclusions about the best version of the product. I have deep understanding of mathematics that lies behind the code. I have experience in conducting `statistical tests`, predicting prices based on `linear models`, and also have knowledge of `bootstrap` analysis methods.
 I do understand how a product manager thinks and what value an analyst brings to the business, I can calculate `product metrics` and apply them to solve analytical problems.
 
-- 📊 What can I do related to data science/ machine learning?
+ 📊 What can I do related to data science/ machine learning?
+ 
 I know classical ML algorithms and can build ML models to solve `regression`, `classification` and `clustering` problems(`Scikit-Learn`). I have experience in using advanced ML models based on `gradient boosting`: `CatBoost`, `LightGBM`, `XGBoost`. Familiar with the basics of backend development and the FastAPI framework.
 I use `Git` for versioning applications and working on projects. I can use `Airflow` to automate regular tasks.
   
